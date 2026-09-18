@@ -1,0 +1,1 @@
+we use git pull origin main to pull the files from the git to our local  repo so that the different file created by user fetched and help to develop a application
